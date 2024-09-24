@@ -5,7 +5,7 @@ const Welcome = () =>{
 
             <p>Welcome to my first React App</p>
           
-            <Day/>
+            <Day short={false}/>
         </div>
      )
 }
